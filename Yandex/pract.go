@@ -1,4 +1,4 @@
-package ftracker
+package ftracker // комменатрий для репозитория
 
 import (
     "fmt"
